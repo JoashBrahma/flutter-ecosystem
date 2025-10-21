@@ -17,6 +17,7 @@ header {
   justify-content: space-between;
   align-items: center;
   position: fixed;
+  z-index: 99;
 }
 header .logo-wrapper .logo img {
   width: 12.6rem;
